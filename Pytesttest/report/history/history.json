@@ -1,0 +1,62 @@
+{
+  "ae8dba8f34e0a4eaba236e9bc4d1c3b8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "398c2c56a22f4a34",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: input your skip reason",
+      "time" : {
+        "start" : 1586442410629,
+        "stop" : 1586442410629,
+        "duration" : 0
+      }
+    } ]
+  },
+  "162ba756498aaa2399e7a78a820873f7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6a9c66632f58894d",
+      "status" : "broken",
+      "statusDetails" : "NameError: name 'driver' is not defined",
+      "time" : {
+        "start" : 1586442393365,
+        "stop" : 1586442410149,
+        "duration" : 16784
+      }
+    } ]
+  },
+  "fc2d78778d40a3934041331b8c887551" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9d1b2fb4b9128f60",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: input your skip reason",
+      "time" : {
+        "start" : 1586442410622,
+        "stop" : 1586442410622,
+        "duration" : 0
+      }
+    } ]
+  }
+}

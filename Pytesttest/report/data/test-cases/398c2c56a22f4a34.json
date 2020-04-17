@@ -1,0 +1,55 @@
+{
+  "uid" : "398c2c56a22f4a34",
+  "name" : "test_02_selenium",
+  "fullName" : "case.test_search#test_02_selenium",
+  "historyId" : "ae8dba8f34e0a4eaba236e9bc4d1c3b8",
+  "time" : {
+    "start" : 1586442410629,
+    "stop" : 1586442410629,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "statusMessage" : "Skipped: input your skip reason",
+  "statusTrace" : "('case\\\\test_search.py', 14, 'Skipped: input your skip reason')",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_search"
+  }, {
+    "name" : "host",
+    "value" : "AUTOBVT-7PHB5S5"
+  }, {
+    "name" : "thread",
+    "value" : "6616-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "398c2c56a22f4a34.json",
+  "parameterValues" : [ ]
+}

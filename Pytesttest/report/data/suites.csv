@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"skipped","Thu Apr 09 22:26:50 CST 2020","Thu Apr 09 22:26:50 CST 2020","0","case","test_search","","","","test_01_hellopytest",""
+"skipped","Thu Apr 09 22:26:50 CST 2020","Thu Apr 09 22:26:50 CST 2020","0","case","test_search","","","","test_02_selenium",""
+"broken","Thu Apr 09 22:26:33 CST 2020","Thu Apr 09 22:26:50 CST 2020","16784","case","test_index","","","","test_01_goods",""

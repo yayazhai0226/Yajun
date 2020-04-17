@@ -1,0 +1,52 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "AUTOBVT-7PHB5S5",
+    "children" : [ {
+      "name" : "6616-MainThread",
+      "children" : [ {
+        "name" : "test_01_hellopytest",
+        "uid" : "9d1b2fb4b9128f60",
+        "parentUid" : "f574e8af88a8ec71bf7206073567cda9",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1586442410622,
+          "stop" : 1586442410622,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_02_selenium",
+        "uid" : "398c2c56a22f4a34",
+        "parentUid" : "f574e8af88a8ec71bf7206073567cda9",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1586442410629,
+          "stop" : 1586442410629,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_01_goods",
+        "uid" : "6a9c66632f58894d",
+        "parentUid" : "f574e8af88a8ec71bf7206073567cda9",
+        "status" : "broken",
+        "time" : {
+          "start" : 1586442393365,
+          "stop" : 1586442410149,
+          "duration" : 16784
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f574e8af88a8ec71bf7206073567cda9"
+    } ],
+    "uid" : "9cefef2252f79bb42b6c8530c0a7f823"
+  } ]
+}
