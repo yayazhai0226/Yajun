@@ -25,7 +25,6 @@ def read_excel(excel_path, sheet_name, skip_first=True):
     # 循环读取每一行的信息
     for row in range(start_row, table.nrows):
         results.append(table.row_values(row))
-
     return results
 
     

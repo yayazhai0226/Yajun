@@ -8,9 +8,8 @@ def save_token(data):
     try:
         token = data.get("data").get("token")
         globals()["token"] = token
-        print(token)
     except:
-        print("没有发现token，不用保存")
+        # print("没有发现token，不用保存")
         pass
         
 def get_token():
