@@ -8,15 +8,14 @@ driver.get("http://www.baidu.com/")
 # e = driver.find_element_by_id("kw")
 # e.send_keys("自动化测试")
 #id 定位
-# driver.find_element_by_id("kw").send_keys("自动化测试")
-
+driver.find_element_by_id("kw").send_keys("自动化测试")
 #name定位
 # driver.find_element_by_name("wd").send_key("自动化测试")
 
 # classname定位
 # driver.find_element_by_class_name("s_ipt").send_keys("zisonghguaceshi")
 
-xpath 定位
+# xpath 定位
 driver.find_element_by_xpath("//*[@id='kw']").send_keys("自动化测试")
     
 
