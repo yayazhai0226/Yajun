@@ -1,6 +1,5 @@
 import requests
 
-
 def save_token(data):
     """
         使用全局变量保存token
